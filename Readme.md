@@ -1,0 +1,3 @@
+# Graph-Visualiser
+Its a very useful app which visualises a Tree/Graph Data Structure according to the data input by the user. It also eases out and visualises the concepts of Graphs Traversal Algorithms like DFS(Depth First Search) and BFS(Breadth First Search) on the graph visualised. Root of the Graph can also be changed , according to the need of the user.
+Tech Stack used for this application includes Vanilla JS(Java Script), HTML and CSS.
